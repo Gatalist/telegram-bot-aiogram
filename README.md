@@ -1,8 +1,8 @@
 # telegram-bot-parser
 
-Простой telegram bot на библиотеке "aiogram" 
-Парсинг данных с сайтов при помощи "beautifulsoup4" и "requests"
-Взаимодействие с API Binance для полученяи актуальных токенов
+Простой telegram bot на библиотеке "aiogram"  
+Парсинг данных с сайтов при помощи "beautifulsoup4" и "requests"  
+Взаимодействие с API Binance для полученяи актуальных токенов 
 
 Что реализовано:
   1) эхо бот с парсингом данных в реальном времени
@@ -29,21 +29,29 @@ pip install -r requirements.txt
 python bot.py
 ```
 
-Примеры работы
-***
+Примеры работы  
 
-![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/0.jpg)
+
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/0.jpg)  
+
 ***
-![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/1.jpg)
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/1.jpg)  
+
 ***
-![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/2.jpg)
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/2.jpg)  
+
 ***
-![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/3.jpg)
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/3.jpg) 
+
 ***
-![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/4.jpg)
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/4.jpg)  
+
 ***
-![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/5.jpg)
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/5.jpg)  
+
 ***
-![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/6.jpg)
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/6.jpg)  
+
 ***
-![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/7.jpg)
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/7.jpg)  
+
