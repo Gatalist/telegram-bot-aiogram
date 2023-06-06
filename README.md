@@ -25,17 +25,17 @@
 
 
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/0.jpg)
-
+\n
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/1.jpg)
-
+\n
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/2.jpg)
-
+\n
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/3.jpg)
-
+\n
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/4.jpg)
-
+\n
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/5.jpg)
-
+\n
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/6.jpg)
-
+\n
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/7.jpg)
