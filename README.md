@@ -22,7 +22,7 @@
 ```python
 pip install -r requirements.txt
 ```
-4) выполнить команду в терминале "python bot.py"
+4) выполнить команду в терминале для запуска бота
 ```python
 python bot.py
 ```
