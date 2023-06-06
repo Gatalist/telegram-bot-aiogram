@@ -25,16 +25,12 @@
 
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/1.jpg)
 
-![Image alt](https://github.com/{Gatalist}/{telegram-bot-parser}/raw/{main}/{image}/1.jpg)
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/2.jpg)
 
-![Image alt](/1.jpg)
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/3.jpg)
 
-![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/2.jpg))
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/4.jpg)
 
-![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/3.jpg))
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/5.jpg)
 
-![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/4.jpg))
-
-![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/5.jpg))
-
-![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/6.jpg))
+![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/6.jpg)
