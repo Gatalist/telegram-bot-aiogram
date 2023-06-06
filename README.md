@@ -19,23 +19,29 @@
 
 1) Для запуска локально, необходимо изменить в файле "settings.py" переменную "token" на свой (получить свой токен можно тут https://t.me/BotFather)
 2) установить зависимости с файла "requirements.txt"
-3) выполнить команду в терминале "python bot.py"
+```python
+pip install -r requirements.txt
+```
+4) выполнить команду в терминале "python bot.py"
+```python
+python bot.py
+```
 
 Примеры работы
-
+***
 
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/0.jpg)
-\n
+***
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/1.jpg)
-\n
+***
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/2.jpg)
-\n
+***
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/3.jpg)
-\n
+***
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/4.jpg)
-\n
+***
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/5.jpg)
-\n
+***
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/6.jpg)
-\n
+***
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/7.jpg)
