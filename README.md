@@ -22,6 +22,8 @@
 3) выполнить команду в терминале "python bot.py"
 
 Примеры работы
+
+
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/0.jpg)
 
 ![Иллюстрация к проекту](https://github.com/Gatalist/telegram-bot-parser/blob/main/image/1.jpg)
