@@ -1,6 +1,8 @@
 # telegram-bot-parser
 
-Простой telegram bot на библиотеке "aiogram" совместно с "beautifulsoup4" и API Binance
+Простой telegram bot на библиотеке "aiogram" 
+Парсинг данных с сайтов при помощи "beautifulsoup4" и "requests"
+Взаимодействие с API Binance для полученяи актуальных токенов
 
 Что реализовано:
   1) эхо бот с парсингом данных в реальном времени
